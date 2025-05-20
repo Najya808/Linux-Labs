@@ -19,6 +19,7 @@ This repo contains beginner-to-advanced Linux labs focused on system administrat
 - [Lab 14: Job Control Basics](lab14-job-control.md)
 - [Lab 15: Using Aliases](lab15-using-aliases.md)
 - [Lab 16: Network Tools Overview](lab17-network-tools-overview.md)
+- [Lab 17: Archiving with tar](lab18-archiving-with-tar.md)
 
 
 
