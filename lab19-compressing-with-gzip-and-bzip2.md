@@ -1,4 +1,4 @@
-# Lab 19: Compressing with gzip and bzip2
+# Lab 18: Compressing with gzip and bzip2
 
 ## 🎯 Objectives
 
