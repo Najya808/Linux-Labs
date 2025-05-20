@@ -11,6 +11,8 @@ This repo contains beginner-to-advanced Linux labs focused on system administrat
 - [Lab 4: Using Text Editors](lab-4-using-text-editors.md)
 - [Lab 6: Working with Ownership](lab6-working-with-ownership.md)  
 - [Lab 7: Using Wildcards](lab7-using-wildcards.md)
+- [Lab 8: Working with Links](lab8-working-with-links.md)
+
 
 
 Each lab includes hands-on tasks, commands used, and reflections on what I learned.
