@@ -17,6 +17,7 @@ This repo contains beginner-to-advanced Linux labs focused on system administrat
 - [Lab 12: Using Piping and Redirection](lab12-piping-and-redirection.md)
 - [Lab 13: Basic Process Management](lab14-process-management.md)
 - [Lab 14: Job Control Basics](lab14-job-control.md)
+- [Lab 15: Using Aliases](lab15-using-aliases.md)
 
 
 
