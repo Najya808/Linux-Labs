@@ -13,6 +13,8 @@ This repo contains beginner-to-advanced Linux labs focused on system administrat
 - [Lab 7: Using Wildcards](lab7-using-wildcards.md)
 - [Lab 8: Working with Links](lab8-working-with-links.md)
 - [Lab 9: Understanding Shells](lab9-understanding-shells.md)
+- [Lab 11: Basic Shell Scripting](lab11-basic-shell-scripting.md)
+
 
 
 
