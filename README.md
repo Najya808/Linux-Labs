@@ -15,6 +15,8 @@ This repo contains beginner-to-advanced Linux labs focused on system administrat
 - [Lab 9: Understanding Shells](lab9-understanding-shells.md)
 - [Lab 11: Basic Shell Scripting](lab11-basic-shell-scripting.md)
 - [Lab 12: Using Piping and Redirection](lab12-piping-and-redirection.md)
+- [Lab 14: Basic Process Management](lab14-process-management.md)
+
 
 
 
