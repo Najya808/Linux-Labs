@@ -21,6 +21,8 @@ This repo contains beginner-to-advanced Linux labs focused on system administrat
 - [Lab 16: Network Tools Overview](lab17-network-tools-overview.md)
 - [Lab 17: Archiving with tar](lab18-archiving-with-tar.md)
 - [Lab 18: Compressing with gzip and bzip2](lab19-compressing-with-gzip-and-bzip2.md)
+- [Lab 20: Working with zip/unzip](lab20-working-with-zip-unzip.md)
+
 
 
 
