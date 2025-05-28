@@ -22,16 +22,4 @@ This repo contains beginner-to-advanced Linux labs focused on system administrat
 - [Lab 17: Archiving with tar](lab18-archiving-with-tar.md)
 - [Lab 18: Compressing with gzip and bzip2](lab19-compressing-with-gzip-and-bzip2.md)
 - [Lab 20: Working with zip/unzip](lab20-working-with-zip-unzip.md)
-
-
-
-
-
-
-
-
-Each lab includes hands-on tasks, commands used, and reflections on what I learned.
-
-## Goal
-
-This project helps me sharpen my Linux skills and understand real-world system administration tasks.
+- [Lab 21: Package Management: APT](lab21-package-management-apt.md)
