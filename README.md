@@ -24,3 +24,4 @@ This repo contains beginner-to-advanced Linux labs focused on system administrat
 - [Lab 20: Working with zip/unzip](lab20-working-with-zip-unzip.md)
 - [Lab 21: Package Management: APT](lab21-package-management-apt.md)
 - [Lab 22: Package Management with YUM/DNF](lab22-package-management-yum-dnf.md)
+- [Lab 23: System Hardware Information](lab23-system-hardware-information.md)
