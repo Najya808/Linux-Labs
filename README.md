@@ -26,5 +26,6 @@ This repo contains beginner-to-advanced Linux labs focused on system administrat
 - [Lab 22: Package Management with YUM/DNF](lab22-package-management-yum-dnf.md)
 - [Lab 23: System Hardware Information](lab23-system-hardware-information.md)
 - [Lab 24: Disk Usage and File Size](./lab24-disk-usage-and-file-size.md)
+- [Lab 25: Creating and Managing Users](lab25-user-management.md)
 
 
