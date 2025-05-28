@@ -23,3 +23,4 @@ This repo contains beginner-to-advanced Linux labs focused on system administrat
 - [Lab 18: Compressing with gzip and bzip2](lab19-compressing-with-gzip-and-bzip2.md)
 - [Lab 20: Working with zip/unzip](lab20-working-with-zip-unzip.md)
 - [Lab 21: Package Management: APT](lab21-package-management-apt.md)
+- [Lab 22: Package Management with YUM/DNF](lab22-package-management-yum-dnf.md)
