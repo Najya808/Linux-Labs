@@ -28,5 +28,7 @@ This repo contains beginner-to-advanced Linux labs focused on system administrat
 - [Lab 24: Disk Usage and File Size](./lab24-disk-usage-and-file-size.md)
 - [Lab 25: Creating and Managing Users](lab25-user-management.md)
 - [Lab 26: Group Management Basics](lab26-group-management.md)
+- [Lab 27: Password Policies](lab27-password-policies.md)
+
 
 
