@@ -29,6 +29,7 @@ This repo contains beginner-to-advanced Linux labs focused on system administrat
 - [Lab 25: Creating and Managing Users](lab25-user-management.md)
 - [Lab 26: Group Management Basics](lab26-group-management.md)
 - [Lab 27: Password Policies](lab27-password-policies.md)
+- [Lab 28: Scheduling Tasks with Crontab](lab28-scheduling-tasks-with-crontab.md)
 
 
 
