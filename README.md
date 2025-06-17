@@ -31,6 +31,7 @@ This repo contains beginner-to-advanced Linux labs focused on system administrat
 - [Lab 27: Password Policies](lab27-password-policies.md)
 - [Lab 28: Scheduling Tasks with Crontab](lab28-scheduling-tasks-with-crontab.md)
 - [Lab 29: Scheduling Tasks with at](lab29-scheduling-tasks-with-at.md)
+- [Lab 30: SSH Basics](lab30-ssh-basics.md)
 
 
 
