@@ -33,5 +33,7 @@ This repo contains beginner-to-advanced Linux labs focused on system administrat
 - [Lab 29: Scheduling Tasks with at](lab29-scheduling-tasks-with-at.md)
 - [Lab 30: SSH Basics](lab30-ssh-basics.md)
 - [lab 31: Using SCP and SFTP](lab-31-scp-sftp.md)
+- [Lab 32: Introduction to vi/vim](lab-32-introduction-to-vi-vim.md)
+
 
 
