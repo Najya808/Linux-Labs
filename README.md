@@ -37,6 +37,7 @@ This repo contains beginner-to-advanced Linux labs focused on system administrat
 - [Lab 33: Basic Grep Usage](lab-33-basic-grep-usage.md)
 - [Lab 34: sed for Text Manipulation](lab-34-sed-for-text-manipulation.md)
 - [Lab 35: awk for Data Processing](lab-35-awk-for-data-processing.md)
+- [Lab 36: Searching with find](lab-36-searching-with-find.md)
 
 
 
