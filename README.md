@@ -55,7 +55,7 @@ This repo contains beginner-to-advanced Linux labs focused on system administrat
 - [Lab 51: Basic Regex with grep](lab-51-basic-regex-with-grep.md)
 - [Lab 52: Network File Transfers (wget/curl)](lab-52-network-file-transfers-wget-curl.md)
 - [Lab 53:  Checking System Uptime](lab-53-checking-system-uptime.md)
-
+- [Lab 54: Using df and du](lab-54-using-df-and-du.md)
 
 
 
