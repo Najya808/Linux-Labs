@@ -53,7 +53,7 @@ This repo contains beginner-to-advanced Linux labs focused on system administrat
 - [Lab 49: Using and Creating Man Pages](lab-49-using-and-creating-man-pages.md)
 - [Lab 50: Introduction to Shell Variables](lab-50-introduction-to-shell-variables.md)
 - [Lab 51: Basic Regex with grep](lab-51-basic-regex-with-grep.md)
-
+- [Lab 52: Network File Transfers (wget/curl)](lab-52-network-file-transfers-wget-curl.md)
 
 
 
