@@ -56,7 +56,7 @@ This repo contains beginner-to-advanced Linux labs focused on system administrat
 - [Lab 52: Network File Transfers (wget/curl)](lab-52-network-file-transfers-wget-curl.md)
 - [Lab 53:  Checking System Uptime](lab-53-checking-system-uptime.md)
 - [Lab 54: Using df and du](lab-54-using-df-and-du.md)
-
+- [Lab 55: Secure File Deletion Using shred](lab-55-secure-file-deletion-using-shred.md)
 
 
 
