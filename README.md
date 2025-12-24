@@ -46,6 +46,7 @@ This repo contains beginner-to-advanced Linux labs focused on system administrat
 - [Lab 42: Mounting and Unmounting](lab-42-mounting-and-unmounting.md)
 - [Lab 43: Swap Space Configuration](lab-43-swap-space-configuration.md)
 - [Lab 44: Basic LVM Concepts](lab-44-basic-lvm-concepts.md)
+- [Lab 45: Introduction to /etc/fstab](lab-45-introduction-to-etc-fstab.md)
 
 
 
