@@ -47,6 +47,7 @@ This repo contains beginner-to-advanced Linux labs focused on system administrat
 - [Lab 43: Swap Space Configuration](lab-43-swap-space-configuration.md)
 - [Lab 44: Basic LVM Concepts](lab-44-basic-lvm-concepts.md)
 - [Lab 45: Introduction to /etc/fstab](lab-45-introduction-to-etc-fstab.md)
+- [Lab 46: Bash Profile vs. Bashrc](lab-46-bash-profile-vs-bashrc.md)
 
 
 
