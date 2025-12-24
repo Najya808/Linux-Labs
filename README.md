@@ -51,6 +51,7 @@ This repo contains beginner-to-advanced Linux labs focused on system administrat
 - [Lab 47: Using the history Command](lab-47-using-the-history-command.md)
 - [Lab 48: Command Chaining](lab-48-command-chaining.md)
 - [Lab 49: Using and Creating Man Pages](lab-49-using-and-creating-man-pages.md)
+- [Lab 50: Introduction to Shell Variables](lab-50-introduction-to-shell-variables.md)
 
 
 
