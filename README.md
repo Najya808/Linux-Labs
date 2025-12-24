@@ -41,6 +41,7 @@ This repo contains beginner-to-advanced Linux labs focused on system administrat
 - [Lab 37: Exploring System Log Files](lab-37-system-log-files.md)
 - [Lab 38: Systemd Services Overview](lab-38-systemd-services-overview.md)
 - [Lab 39: Basic Firewall Setup (UFW)](lab-39-basic-firewall-setup-ufw.md)
+- [Lab 40: Working with iptables](lab-40-working-with-iptables.md)
 
 
 
