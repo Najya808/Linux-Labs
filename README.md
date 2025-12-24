@@ -45,6 +45,7 @@ This repo contains beginner-to-advanced Linux labs focused on system administrat
 - [Lab 41: Disk and Partition Management](lab-41-disk-partition-management.md)
 - [Lab 42: Mounting and Unmounting](lab-42-mounting-and-unmounting.md)
 - [Lab 43: Swap Space Configuration](lab-43-swap-space-configuration.md)
+- [Lab 44: Basic LVM Concepts](lab-44-basic-lvm-concepts.md)
 
 
 
