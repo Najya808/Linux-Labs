@@ -49,6 +49,7 @@ This repo contains beginner-to-advanced Linux labs focused on system administrat
 - [Lab 45: Introduction to /etc/fstab](lab-45-introduction-to-etc-fstab.md)
 - [Lab 46: Bash Profile vs. Bashrc](lab-46-bash-profile-vs-bashrc.md)
 - [Lab 47: Using the history Command](lab-47-using-the-history-command.md)
+- [Lab 48: Command Chaining](lab-48-command-chaining.md)
 
 
 
