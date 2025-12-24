@@ -93,4 +93,3 @@ Understand how Linux handles network traffic at a low level
 
 This lab strengthened my knowledge of Linux security and firewall management, which is essential for server administration and system hardening.
 
-📝 Update your README.md
