@@ -1,8 +1,5 @@
 # 🐧 Linux Labs Collection
 
-Welcome to AlRazzaq's journey through Linux!  
-This repo contains beginner-to-advanced Linux labs focused on system administration and cybersecurity.
-
 ## 📁 Labs Included
 
 - [Lab 1: Basic File Permissions](lab-1-basic-file-permissions.md)
