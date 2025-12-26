@@ -57,4 +57,5 @@
 - [Lab 56: Basic Cron Log Inspection](lab-56-basic-cron-log-inspection.md)
 - [Lab 57: Simple Log Rotation](lab-57-simple-log-rotation.md)
 - [Lab 58: Setting Up Aliases in .bashrc](lab-58-setting-up-aliases-in-bashrc.md)
+- [Lab 59: Monitoring with top and htop](lab-59-monitoring-with-top-and-htop.md)
 
