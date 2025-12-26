@@ -58,4 +58,4 @@
 - [Lab 57: Simple Log Rotation](lab-57-simple-log-rotation.md)
 - [Lab 58: Setting Up Aliases in .bashrc](lab-58-setting-up-aliases-in-bashrc.md)
 - [Lab 59: Monitoring with top and htop](lab-59-monitoring-with-top-and-htop.md)
-
+- [Lab 60: Introduction to SELinux](lab-60-introduction-to-selinux.md)
