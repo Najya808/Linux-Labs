@@ -56,5 +56,5 @@
 - [Lab 55: Secure File Deletion Using shred](lab-55-secure-file-deletion-using-shred.md)
 - [Lab 56: Basic Cron Log Inspection](lab-56-basic-cron-log-inspection.md)
 - [Lab 57: Simple Log Rotation](lab-57-simple-log-rotation.md)
-
+- [Lab 58: Setting Up Aliases in .bashrc](lab-58-setting-up-aliases-in-bashrc.md)
 
